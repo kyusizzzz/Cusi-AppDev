@@ -20,9 +20,7 @@ The Amazing Spider-Man 2 follows Peter Parker as he balances life as Spider-Man 
 
 This movie features the final appearance of Andrew Garfield as Spider-Man in his solo film series before the character was rebooted in the Marvel Cinematic Universe.
 
-#
-
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/43de46a3-9538-4304-8631-f780bdfb6429" />
+# <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/43de46a3-9538-4304-8631-f780bdfb6429" />
 
 ## 2. **Avengers: Endgame (2019)**
 
@@ -40,9 +38,7 @@ Avengers: Endgame follows the surviving Avengers after the devastating events of
 
 Avengers: Endgame became one of the highest-grossing films of all time, earning about $2.94 billion worldwide.
 
-#
-
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/60fab905-1340-45bd-91de-57bea8f09f8c" />
+# <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/60fab905-1340-45bd-91de-57bea8f09f8c" />
 
 ## 3. **Solo Leveling (2024)**
 
@@ -72,8 +68,8 @@ Solo Leveling is my most favorite anime because of its exciting action, unique s
 
 **LINKS:**
 
-[The Amazing Spider-Man 2 (2014)] [https://www.example.com](https://www.plotexplained.com/movie/the-amazing-spider-man-2/spoiler-free/)
+[The Amazing Spider-Man 2](https://www.plotexplained.com/movie/the-amazing-spider-man-2/spoiler-free/)
 
-[Avengers: Endgame (2019)] [https://www.example.com](https://www.plotexplained.com/movie/avengers-endgame/spoiler-free/)
+[Avengers: Endgame](https://www.plotexplained.com/movie/avengers-endgame/spoiler-free/)
 
-[Solo Leveling (2024)] [https://www.example.com](https://www.imdb.com/title/tt21209876/)
+[Solo Leveling](https://www.imdb.com/title/tt21209876/)
